@@ -11,5 +11,5 @@ public class Main {
     celsiusDegre = input.nextDouble();
     System.out.println("Wynik: "+(celsiusDegre*1.8 + 32));
     }
-    
+
 }
